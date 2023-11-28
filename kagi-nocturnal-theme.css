@@ -85,6 +85,10 @@ html,
     background-color: #000000;
 }
 
+#searchForm {
+    border-radius: 50%;
+}
+
 .widgetContent {
     background-color: #0d0e11;
     border-radius: 12px;
