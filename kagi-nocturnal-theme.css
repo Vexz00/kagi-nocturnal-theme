@@ -215,4 +215,5 @@ html,
 #myip,
 .widgetContent.clearfix {
     background-color: #0d0e11;
+    border-radius: 12px;
 }
