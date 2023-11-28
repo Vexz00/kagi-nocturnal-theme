@@ -1,9 +1,15 @@
 .sri-group,
-.search-result,
-.scene {
+.search-result {
     background-color: #17191e;
     border-radius: 12px;
     margin-bottom: 1.3rem;
+}
+
+.scene {
+    background-color: #17191e;
+    border-radius: 12px;
+    padding-top: 27px !important;
+    margin-bottom: 0px !important;
 }
 
 .search-result {
@@ -19,11 +25,27 @@
     border-radius: 12px;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
-    padding-bottom: 1rem;
+    padding-bottom: 0px;
 }
 
-.search_mode_toggle i.oSea {
+.search_mode_toggle i.oSea,
+._0_d_info_ranking.k_ui_btn_group
+.search_mode_box_s input:checked + a.k_ui_btn,
+._0_sri-w-highlight
+.search_mode_box_s a.searchResultAnswer,
+.search_mode_box_s
+._0_d_info_ranking.k_ui_btn_group input:checked + a.k_ui_btn,
+.search_mode_box_s
+._0_sri-w-highlight a.searchResultAnswer,
+.search_mode_box_s a.--active,
+.search_mode_box_s a._0_sri-w-highlight.box,
+.search_mode_box_s a.box:hover,
+#searchFormSubmitBtn {
     background-color: #58a6ff;
+}
+
+.btn.--yellow {
+    border: 1px solid #58a6ff;
 }
 
 .comment {
@@ -37,20 +59,8 @@
 .code.copyToClipText {
     margin-top: 0px;
     margin-bottom: 0px;
-	border-radius: 0px;
-	border: 2px solid #090c10;
-}
-
-._0_d_info_ranking.k_ui_btn_group .search_mode_box_s input:checked + a.k_ui_btn, ._0_sri-w-highlight .search_mode_box_s a.searchResultAnswer, .search_mode_box_s ._0_d_info_ranking.k_ui_btn_group input:checked + a.k_ui_btn, .search_mode_box_s ._0_sri-w-highlight a.searchResultAnswer, .search_mode_box_s a.--active, .search_mode_box_s a._0_sri-w-highlight.box, .search_mode_box_s a.box:hover {
-    background-color: #58a6ff;
-}
-
-.btn.--yellow {
-    border: 1px solid #58a6ff;
-}
-
-#searchFormSubmitBtn {
-    background-color: #58a6ff;
+    border-radius: 0px;
+    border: 2px solid #090c10;
 }
 
 .scene {
@@ -64,7 +74,14 @@
 
 body,
 html,
-.mob {
+.mob,
+#searchForm,
+.sidebar-filter-nav,
+.app-content-box._0_content-bay,
+.app-content-box.top-panel-box,
+.landing_cat_buttons,
+._0_k_ui_dropdown
+.k_ui_dropdown.__basic.__transparent {
     background-color: #000000;
 }
 
@@ -80,7 +97,12 @@ html,
 
 .widgetContent
 .widgetItems
-.widgetItem {
+.widgetItem,
+.box,
+.videoResultInfo,
+.widget-body,
+.widget-header,
+.card_body {
     background-color: #1a1c22;
 }
 
@@ -90,25 +112,9 @@ html,
     border: none;
 }
 
-#searchForm {
-    background-color: #000000;
-}
-
 .search-input {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-}
-
-.sidebar-filter-nav {
-    background-color: #000000;
-}
-
-.app-content-box._0_content-bay {
-    background-color: #000000;
-}
-
-.app-content-box.top-panel-box {
-    background-color: #000000;
 }
 
 .search-form-icons {
@@ -116,11 +122,10 @@ html,
     border-bottom-right-radius: 5px;
 }
 
-.videoResultRight {
-    background-color: #17191e;
-}
-
-.videoPublished {
+.videoResultRight,
+.videoPublished,
+.related-items a,
+.weather_days_box {
     background-color: #17191e;
 }
 
@@ -135,11 +140,6 @@ html,
     background-color: #111317;
 }
 
-.box,
-.videoResultInfo {
-    background-color: #1a1c22;
-}
-
 .auto_suggestions {
     background-color: #090c10;
 }
@@ -148,42 +148,6 @@ html,
     padding-right: 10px;
     padding-left: 17px;
     padding-bottom: 1.1rem;
-}
-
-.widget-body {
-    background-color: #1a1c22;
-}
-
-.widget-header {
-    background-color: #1a1c22;
-}
-
-.widgetContent.clearfix {
-    background-color: #0d0e11;
-}
-
-.widget_weather {
-    background-color: #0d0e11;
-    border-radius: 12px;
-    padding-top: 1rem;
-    padding-right: 1rem;
-    padding-bottom: 1.1rem;
-    padding-left: 1rem;
-    margin-bottom: 1.3rem;
-}
-
-.related-items a {
-    background-color: #17191e;
-}
-
-.top_podcasts_box.freeScroller {
-    border-radius: 12px;
-    background-color: #0d0e11;
-    padding-top: 26px;
-    padding-right: 10px;
-    padding-bottom: 1.1rem;
-    padding-left: 26px;
-    margin-bottom: 1.3rem;
 }
 
 .podcast_result._0_SRI {
@@ -196,29 +160,24 @@ html,
     margin-bottom: 1.3rem;
 }
 
-.card_body {
-    background-color: #1a1c22;
-}
-
-.landing_cat_buttons {
-    background-color: #000000;
-}
-
-._0_k_ui_dropdown.k_ui_dropdown.__basic.__transparent {
-    background-color: #000000;
-}
-
-.weather_days_box {
-    background-color: #17191e;
-}
-
 .weather_day {
     border-color: black;
     border-width: 1px;
     border-style: solid;
 }
 
-._0_results_summary_box.__0_show {
+.top_podcasts_box.freeScroller {
+    background-color: #0d0e11;
+    border-radius: 12px;
+    padding-top: 26px;
+    padding-right: 10px;
+    padding-bottom: 1.1rem;
+    padding-left: 26px;
+    margin-bottom: 1.3rem;
+}
+
+._0_results_summary_box.__0_show,
+.widget_weather {
     background-color: #0d0e11;
     border-radius: 12px;
     padding-top: 1rem;
@@ -228,10 +187,8 @@ html,
     margin-bottom: 1.3rem;
 }
 
-#conversions {
-    background-color: #0d0e11;
-}
-
-#myip {
+#conversions,
+#myip,
+.widgetContent.clearfix {
     background-color: #0d0e11;
 }
