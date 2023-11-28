@@ -14,8 +14,31 @@
     margin-bottom: 1.3rem;
 }
 
+._0_right_sidebar._0_provider-content {
+    background-color: #17191e;
+    border-radius: 12px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 1rem;
+}
+
 .search_mode_toggle i.oSea {
     background-color: #58a6ff;
+}
+
+.comment {
+    background-color: #090c10;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.code.copyToClipText {
+    margin-top: 0px;
+    margin-bottom: 0px;
+	border-radius: 0px;
+	border: 2px solid #090c10;
 }
 
 ._0_d_info_ranking.k_ui_btn_group .search_mode_box_s input:checked + a.k_ui_btn, ._0_sri-w-highlight .search_mode_box_s a.searchResultAnswer, .search_mode_box_s ._0_d_info_ranking.k_ui_btn_group input:checked + a.k_ui_btn, .search_mode_box_s ._0_sri-w-highlight a.searchResultAnswer, .search_mode_box_s a.--active, .search_mode_box_s a._0_sri-w-highlight.box, .search_mode_box_s a.box:hover {
