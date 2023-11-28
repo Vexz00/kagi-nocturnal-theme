@@ -192,6 +192,11 @@ html,
     margin-bottom: 1.3rem;
 }
 
+#expandWikipediaContent {
+    background-color: #0d0e11;
+    border-radius: 12px;
+}
+
 #conversions,
 #myip,
 .widgetContent.clearfix {
