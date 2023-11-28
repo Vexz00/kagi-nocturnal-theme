@@ -2,10 +2,10 @@
 
 ### Screenshots
 
-![Main page](http://screenshot.hostux.net/u/sqnEgC.png)
+![Main page](https://screenshot.hostux.net/u/sqnEgC.png)
 
 
-![Search results](http://screenshot.hostux.net/u/9AB9i6.png)
+![Search results](https://screenshot.hostux.net/u/pN4EMv.png)
 
 ### Known Bugs
 
