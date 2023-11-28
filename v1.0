@@ -1,0 +1,214 @@
+.sri-group,
+.search-result,
+.scene {
+    background-color: #17191e;
+    border-radius: 12px;
+    margin-bottom: 1.3rem;
+}
+
+.search-result {
+    padding-top: 1rem;
+    padding-right: 10px;
+    padding-bottom: 1.1rem;
+    padding-left: 32px;
+    margin-bottom: 1.3rem;
+}
+
+.search_mode_toggle i.oSea {
+    background-color: #58a6ff;
+}
+
+._0_d_info_ranking.k_ui_btn_group .search_mode_box_s input:checked + a.k_ui_btn, ._0_sri-w-highlight .search_mode_box_s a.searchResultAnswer, .search_mode_box_s ._0_d_info_ranking.k_ui_btn_group input:checked + a.k_ui_btn, .search_mode_box_s ._0_sri-w-highlight a.searchResultAnswer, .search_mode_box_s a.--active, .search_mode_box_s a._0_sri-w-highlight.box, .search_mode_box_s a.box:hover {
+    background-color: #58a6ff;
+}
+
+.btn.--yellow {
+    border: 1px solid #58a6ff;
+}
+
+#searchFormSubmitBtn {
+    background-color: #58a6ff;
+}
+
+.scene {
+    padding: 1rem;
+}
+
+.__sri-title,
+.__sri_title_Link {
+    color: #7799e5;
+}
+
+body,
+html,
+.mob {
+    background-color: #000000;
+}
+
+.widgetContent {
+    background-color: #0d0e11;
+    border-radius: 12px;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 2.2rem;
+    padding-left: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+.widgetContent
+.widgetItems
+.widgetItem {
+    background-color: #1a1c22;
+}
+
+.search-input-container,
+.search-form {
+    box-shadow: 0px 1px 30px rgb(0 0 0 / 35%);
+    border: none;
+}
+
+#searchForm {
+    background-color: #000000;
+}
+
+.search-input {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.sidebar-filter-nav {
+    background-color: #000000;
+}
+
+.app-content-box._0_content-bay {
+    background-color: #000000;
+}
+
+.app-content-box.top-panel-box {
+    background-color: #000000;
+}
+
+.search-form-icons {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.videoResultRight {
+    background-color: #17191e;
+}
+
+.videoPublished {
+    background-color: #17191e;
+}
+
+.search-form,
+.search-input,
+.search-form-icons,
+.spt {
+    background: #111317;
+}
+
+.app-header.app-content-box {
+    background-color: #111317;
+}
+
+.box,
+.videoResultInfo {
+    background-color: #1a1c22;
+}
+
+.auto_suggestions {
+    background-color: #090c10;
+}
+
+.__srgi {
+    padding-right: 10px;
+    padding-left: 17px;
+    padding-bottom: 1.1rem;
+}
+
+.widget-body {
+    background-color: #1a1c22;
+}
+
+.widget-header {
+    background-color: #1a1c22;
+}
+
+.widgetContent.clearfix {
+    background-color: #0d0e11;
+}
+
+.widget_weather {
+    background-color: #0d0e11;
+    border-radius: 12px;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1.1rem;
+    padding-left: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+.related-items a {
+    background-color: #17191e;
+}
+
+.top_podcasts_box.freeScroller {
+    border-radius: 12px;
+    background-color: #0d0e11;
+    padding-top: 26px;
+    padding-right: 10px;
+    padding-bottom: 1.1rem;
+    padding-left: 26px;
+    margin-bottom: 1.3rem;
+}
+
+.podcast_result._0_SRI {
+    background-color: #17191e;
+    border-radius: 12px;
+    padding-top: 1rem;
+    padding-right: 10px;
+    padding-bottom: 1.1rem;
+    padding-left: 26px;
+    margin-bottom: 1.3rem;
+}
+
+.card_body {
+    background-color: #1a1c22;
+}
+
+.landing_cat_buttons {
+    background-color: #000000;
+}
+
+._0_k_ui_dropdown.k_ui_dropdown.__basic.__transparent {
+    background-color: #000000;
+}
+
+.weather_days_box {
+    background-color: #17191e;
+}
+
+.weather_day {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
+
+._0_results_summary_box.__0_show {
+    background-color: #0d0e11;
+    border-radius: 12px;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 1.3rem;
+}
+
+#conversions {
+    background-color: #0d0e11;
+}
+
+#myip {
+    background-color: #0d0e11;
+}
