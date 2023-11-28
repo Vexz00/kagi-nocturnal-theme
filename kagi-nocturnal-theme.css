@@ -44,8 +44,16 @@
     background-color: #58a6ff;
 }
 
+.search_mode_toggle i.oSea:hover {
+    background-color: #c0cdf4 !important;
+}
+
 .btn.--yellow {
-    border: 1px solid #58a6ff;
+    border: none;
+}
+
+.auto_suggestions.--visible {
+    border-color: #77797b;
 }
 
 .comment {
@@ -110,12 +118,6 @@ html,
 .crisp-edges._0_img_src,
 .card_body {
     background-color: #1a1c22;
-}
-
-.search-input-container,
-.search-form {
-    box-shadow: 0px 1px 30px rgb(0 0 0 / 35%);
-    border: none;
 }
 
 .search-input {
