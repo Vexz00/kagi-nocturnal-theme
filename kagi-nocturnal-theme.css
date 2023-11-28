@@ -197,6 +197,19 @@ html,
     border-radius: 12px;
 }
 
+.cheatsh {
+    padding-bottom: 55px;
+}
+
+.show_more,
+.show_less {
+    background-color: #0d0e11;
+    border-radius: 12px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+	margin-top: 5px;
+}
+
 #conversions,
 #myip,
 .widgetContent.clearfix {
