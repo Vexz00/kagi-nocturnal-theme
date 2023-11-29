@@ -40,7 +40,11 @@
 .search_mode_box_s a.--active,
 .search_mode_box_s a._0_sri-w-highlight.box,
 .search_mode_box_s a.box:hover,
-#searchFormSubmitBtn {
+#searchFormSubmitBtn,
+.k_ui_toggle_switch input:checked ~
+.k_ui_toggle_switch_bar,
+.k_ui_toggle_switch.--enabled
+.k_ui_toggle_switch_bar {
     background-color: #58a6ff;
 }
 
@@ -218,4 +222,8 @@ html,
 .widgetContent.clearfix {
     background-color: #0d0e11;
     border-radius: 12px;
+}
+
+#quickSettings {
+    background-color: #000000;
 }
