@@ -92,8 +92,8 @@ html,
 .app-content-box._0_content-bay,
 .app-content-box.top-panel-box,
 .landing_cat_buttons,
-._0_k_ui_dropdown
-.k_ui_dropdown.__basic.__transparent {
+._0_k_ui_dropdown.k_ui_dropdown.__basic.__transparent,
+._0_landing_filters {
     background-color: #000000;
 }
 
