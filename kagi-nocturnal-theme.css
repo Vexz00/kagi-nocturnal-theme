@@ -48,6 +48,16 @@
     background-color: #58a6ff;
 }
 
+._0_d_info_ranking.k_ui_btn_group input:checked +
+.box.k_ui_btn,
+._0_sri-w-highlight
+.box.searchResultAnswer,
+.box.--active,
+.box._0_sri-w-highlight,
+.box:hover {
+    outline: 3px solid #58a6ff !important;
+}
+
 .search_mode_toggle i.oSea:hover {
     background-color: #c0cdf4 !important;
 }
