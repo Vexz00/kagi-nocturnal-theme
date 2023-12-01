@@ -116,6 +116,7 @@ html,
 }
 
 .widgetContent,
+.widgetContent.clearfix,
 #inline_map {
     background-color: #0d0e11;
     padding-top: 1rem;
@@ -127,7 +128,7 @@ html,
     border-left-style: solid;
     border-left-color: #252830;
     border-left-width: 10px;
-	border-radius: 0% 12px 12px 0%;
+	border-radius: 0% 12px 12px 0% !important;
 }
 
 .widgetContent
