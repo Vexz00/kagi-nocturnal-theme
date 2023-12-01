@@ -5,7 +5,7 @@
 ![Main page](https://screenshot.hostux.net/u/sqnEgC.png)
 
 
-![Search results](https://screenshot.hostux.net/u/QwlOkb.png)
+![Search results](https://screenshot.hostux.net/u/9SIKUX.png)
 
 ### Known Bugs
 
