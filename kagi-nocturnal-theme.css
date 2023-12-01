@@ -170,10 +170,19 @@ html,
     background-color: #090c10;
 }
 
+.sr-group.__dl {
+    margin-left: 18px;
+	margin-top: 15px;
+}
+
 .__srgi {
     padding-right: 10px;
     padding-left: 17px;
-    padding-bottom: 1.1rem;
+	margin-right: 10px;
+	margin-bottom: 20px !important;
+	border-left-style: solid;
+	border-left-width: 4px;
+	border-left-color: #404040;
 }
 
 .podcast_result._0_SRI {
