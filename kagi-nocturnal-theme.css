@@ -208,12 +208,16 @@ html,
 
 .top_podcasts_box.freeScroller {
     background-color: #0d0e11;
-    border-radius: 12px;
     padding-top: 26px;
     padding-right: 10px;
     padding-bottom: 1.1rem;
     padding-left: 26px;
     margin-bottom: 1.3rem;
+    margin-left: 15px;
+    border-left-style: solid;
+    border-left-color: #252830;
+    border-left-width: 10px;
+    border-radius: 0% 12px 12px 0% !important;
 }
 
 ._0_results_summary_box.__0_show,
