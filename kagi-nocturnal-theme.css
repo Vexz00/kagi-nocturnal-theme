@@ -5,6 +5,10 @@
     margin-bottom: 1.3rem;
 }
 
+.sri-group {
+    padding-bottom: 0.4rem;
+}
+
 .scene {
     background-color: #17191e;
     border-radius: 12px;
@@ -128,7 +132,7 @@ html,
     border-left-style: solid;
     border-left-color: #252830;
     border-left-width: 10px;
-	border-radius: 0% 12px 12px 0% !important;
+    border-radius: 0% 12px 12px 0% !important;
 }
 
 .widgetContent
@@ -183,11 +187,11 @@ html,
 .__srgi {
     padding-right: 10px;
     padding-left: 17px;
-	margin-right: 10px;
-	margin-bottom: 20px !important;
-	border-left-style: solid;
-	border-left-width: 4px;
-	border-left-color: #404040;
+    margin-right: 10px;
+    margin-bottom: 20px !important;
+    border-left-style: solid;
+    border-left-width: 4px;
+    border-left-color: #404040;
 }
 
 .podcast_result._0_SRI {
