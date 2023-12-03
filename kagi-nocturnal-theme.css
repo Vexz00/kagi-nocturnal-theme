@@ -9,6 +9,12 @@
     padding-bottom: 0.4rem;
 }
 
+.sri-group
+.sr-group {
+  margin-top: 15px;
+  padding-left: 35px;
+}
+
 .scene {
     background-color: #17191e;
     border-radius: 12px;
