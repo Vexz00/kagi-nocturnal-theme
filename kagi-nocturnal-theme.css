@@ -141,6 +141,20 @@ html,
     border-radius: 0% 12px 12px 0% !important;
 }
 
+._0_IA_BODY_TITLE.__ia-title {
+    background-color: #0d0e11;
+    padding-top: 1rem;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    margin-bottom: 1.5rem;
+    margin-left: 15px;
+    border-left-style: solid;
+    border-left-color: #252830;
+    border-left-width: 10px;
+    border-radius: 0% 12px 12px 0% !important;
+}
+
 .widgetContent
 .widgetItems
 .widgetItem,
