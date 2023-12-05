@@ -255,7 +255,8 @@ html,
     margin-bottom: 1.3rem;
 }
 
-#expandWikipediaContent {
+#expandWikipediaContent,
+label.smw {
     background-color: #0d0e11;
     border-radius: 12px;
 }
