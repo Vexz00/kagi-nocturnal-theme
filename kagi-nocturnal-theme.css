@@ -54,7 +54,8 @@
 .k_ui_toggle_switch input:checked ~
 .k_ui_toggle_switch_bar,
 .k_ui_toggle_switch.--enabled
-.k_ui_toggle_switch_bar {
+.k_ui_toggle_switch_bar,
+button.btn.--yellow.--block.--md.fsub {
     background-color: #58a6ff;
 }
 
