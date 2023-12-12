@@ -9,6 +9,10 @@
     padding-bottom: 0.4rem;
 }
 
+.theme_moon_dark {
+    --m_sri_gap_color: #17191e;
+}
+
 .sri-group
 .sr-group {
   margin-top: 15px;
@@ -118,7 +122,8 @@ html,
 .app-content-box.top-panel-box,
 .landing_cat_buttons,
 ._0_k_ui_dropdown.k_ui_dropdown.__basic.__transparent,
-._0_landing_filters {
+._0_landing_filters,
+._0_filters-panel {
     background-color: #000000;
 }
 
