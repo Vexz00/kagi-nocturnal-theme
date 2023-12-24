@@ -19,13 +19,6 @@
   padding-left: 35px;
 }
 
-.scene {
-    background-color: #17191e;
-    border-radius: 12px;
-    padding-top: 27px !important;
-    margin-bottom: 0px !important;
-}
-
 .search-result {
     padding-top: 1rem;
     padding-right: 10px;
@@ -34,12 +27,25 @@
     margin-bottom: 1.3rem;
 }
 
+.scene {
+    padding-top: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    padding-bottom: 0px !important;
+    margin-top: 0px !important;
+}
+
 ._0_right_sidebar._0_provider-content {
     background-color: #17191e;
     border-radius: 12px;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-    padding-bottom: 0px;
+    padding-top: 1.6rem !important;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 16px;
+}
+
+.shopping_preview_item_reviews {
+    padding-bottom: 10px;
 }
 
 .search_mode_toggle i.oSea,
