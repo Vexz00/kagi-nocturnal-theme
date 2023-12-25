@@ -38,14 +38,18 @@
 ._0_right_sidebar._0_provider-content {
     background-color: #17191e;
     border-radius: 12px;
-    padding-top: 1.6rem !important;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    padding-bottom: 16px;
 }
 
 .shopping_preview_item_reviews {
-    padding-bottom: 10px;
+    padding-bottom: 16px !important;
+}
+
+.shopping_sidebar_box,
+.wikipediaResult {
+    padding-top: 1.7rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    padding-bottom: 1rem;
 }
 
 .search_mode_toggle i.oSea,
