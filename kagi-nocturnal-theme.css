@@ -141,6 +141,13 @@ html,
     border-radius: 50%;
 }
 
+.shopping_preview_extend_button >
+.show_more,
+.shopping_preview_extend_button >
+.show_less {
+    background-color: #17191e !important;
+}
+
 .widgetContent,
 .widgetContent.clearfix,
 #inline_map {
@@ -196,7 +203,8 @@ html,
 .videoResultRight,
 .videoPublished,
 .related-items a,
-.weather_days_box {
+.weather_days_box,
+.shopping_preview_item_review_text {
     background-color: #17191e;
 }
 
