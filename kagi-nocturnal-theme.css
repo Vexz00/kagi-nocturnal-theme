@@ -304,6 +304,7 @@ label.smw {
     border-radius: 12px;
 }
 
-#quickSettings {
+#quickSettings,
+.orb_chat_footer._0_orb_chat_footer {
     background-color: #000000;
 }
