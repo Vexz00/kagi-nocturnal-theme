@@ -11,6 +11,7 @@
 
 .theme_moon_dark {
     --m_sri_gap_color: #17191e;
+    --color-search-input: #090c10;
 }
 
 .sri-group
@@ -50,6 +51,23 @@
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     padding-bottom: 1rem;
+    color: #54565e;
+}
+
+.wikipediaResult a,
+.wikipediaResult a:hover {
+    border-bottom: none;
+}
+
+.wiki_desc_text, {
+    color: #acacac;
+}
+
+.wikipediaResult
+.smw,
+.wikipediaResult
+.smw:hover {
+    color: #999999;
 }
 
 .search_mode_toggle i.oSea,
@@ -71,6 +89,17 @@
 .k_ui_toggle_switch_bar,
 button.btn.--yellow.--block.--md.fsub {
     background-color: #58a6ff;
+    background: #58a6ff;
+}
+
+.k_ui_toggle_switch.--enabled
+.k_ui_toggle_switch_bar::after {
+    border: 1px solid #58a6ff;
+}
+
+.k_ui_toggle_switch.--enabled
+.k_ui_toggle_switch_bar {
+    box-shadow: 0 0 0 1px #717171;
 }
 
 ._0_d_info_ranking.k_ui_btn_group input:checked +
@@ -81,6 +110,29 @@ button.btn.--yellow.--block.--md.fsub {
 .box._0_sri-w-highlight,
 .box:hover {
     outline: 3px solid #58a6ff !important;
+}
+
+.__sri-title .__sri_title_link,
+.__sri-title .__sri_title_link:hover,
+.__srgi-title a,
+.__srgi-title a:hover,
+.wikipediaResult a,
+.wikipediaResult a:hover {
+    color: #58a5fe;
+    border-bottom: none;
+}
+
+.widget_holder
+.wasb {
+    background-color: #17191e;
+}
+
+.serp-nav .nav_item.n_se::after {
+    border-top: 4px solid #58a5fe;
+}
+
+:root {
+    --nav_n_se_line: #58a5fe;
 }
 
 .search_mode_toggle i.oSea:hover {
@@ -218,7 +270,11 @@ html,
     background-color: #111317;
 }
 
-.auto_suggestions {
+.auto_suggestions,
+.search-input-container._0_search-input-container._0_no_multiline,
+#searchBar,
+#_0_land_tooltip_message,
+.search-form-icons._0_search_form_icons {
     background-color: #090c10;
 }
 
