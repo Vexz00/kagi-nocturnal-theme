@@ -127,14 +127,6 @@ button.btn.--yellow.--block.--md.fsub {
     background-color: #17191e;
 }
 
-.serp-nav .nav_item.n_se::after {
-    border-top: 4px solid #58a5fe;
-}
-
-:root {
-    --nav_n_se_line: #58a5fe;
-}
-
 .search_mode_toggle i.oSea:hover {
     background-color: #c0cdf4 !important;
 }
