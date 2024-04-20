@@ -1,3 +1,27 @@
+._0_URL._0_TITLE,
+._0_URL._0_TITLE:hover {
+    color: #58a5fe !important;
+    font-size: 1.3rem !important;
+}
+
+.newsResultItem._0_SRI {
+    background-color: #17191e;
+    border-radius: 12px;
+    padding: 1.3rem;
+    margin-bottom: 1.3rem;
+}
+
+.cevents
+.category{
+    background-color: #17191e;
+    border-radius: 12px;
+    padding-top: 3px;
+    padding-left: 1.3rem;
+    padding-right: 1.3rem;
+    padding-bottom: 1px;
+    margin-bottom: 1.3rem;
+}
+
 .serp-nav
 .nav_item.n_se::after,
 .serp-nav
@@ -68,7 +92,11 @@
 }
 
 .wikipediaResult a,
-.wikipediaResult a:hover {
+.wikipediaResult a:hover,
+.newsResultItem
+.newsResultHeader
+.newsResultTitle
+a._0_TITLE {
     border-bottom: none;
 }
 
