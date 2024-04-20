@@ -1,3 +1,16 @@
+.serp-nav
+.nav_item.n_se::after,
+.serp-nav
+.nav_item.n_im::after,
+.serp-nav
+.nav_item.n_vi::after,
+.serp-nav
+.nav_item.n_ne::after,
+.serp-nav
+.nav_item.n_ma::after {
+    border-top: 4px solid #57a3fb;
+}
+
 .sri-group,
 .search-result {
     background-color: #17191e;
