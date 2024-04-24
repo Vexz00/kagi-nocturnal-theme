@@ -270,7 +270,11 @@ html,
 .widget-body,
 .widget-header,
 .crisp-edges._0_img_src,
-.card_body {
+.card_body,
+.widget-footer:hover,
+.widgetContent
+.widgetItems
+.widgetItem:hover {
     background-color: #1a1c22;
 }
 
