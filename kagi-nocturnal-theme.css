@@ -11,6 +11,11 @@
     margin-bottom: 1.3rem;
 }
 
+.sri-group._ext_r,
+._0_SRI._ext_r.search-result {
+    border-color: #17191e;
+}
+
 .cevents
 .category{
     background-color: #17191e;
@@ -239,7 +244,7 @@ html,
     padding-top: 1rem;
     padding-right: 1rem;
     padding-bottom: 2.2rem;
-    padding-left: 1rem;
+    padding-left: 1.7rem;
     margin-bottom: 1.3rem;
     margin-left: 15px;
     border-left-style: solid;
