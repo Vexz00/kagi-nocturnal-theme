@@ -7,10 +7,10 @@
 
 ### Screenshots
 
-![Main page](https://screenshot.hostux.net/u/sqnEgC.png)
+![Main page](https://i.imgur.com/BjA6uze.png)
 
 
-![Search results](https://screenshot.hostux.net/u/9SIKUX.png)
+![Search results](https://i.imgur.com/k2J7Cm5.png)
 
 ### Known Bugs
 
