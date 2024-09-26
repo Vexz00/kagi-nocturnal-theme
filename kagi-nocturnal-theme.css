@@ -41,7 +41,8 @@
 }
 
 .sri-group,
-.search-result {
+.search-result,
+.chat_bubble {
     background-color: #17191e;
     border-radius: 12px;
     margin-bottom: 1.3rem;
@@ -68,6 +69,10 @@
     padding-bottom: 1.1rem;
     padding-left: 32px;
     margin-bottom: 1.3rem;
+}
+
+.chat_bubble {
+    padding: 1rem;
 }
 
 .scene {
@@ -403,6 +408,10 @@ label.smw {
 }
 
 #quickSettings,
-.orb_chat_footer._0_orb_chat_footer {
+.orb_chat_footer._0_orb_chat_footer,
+.bottom-box,
+header.desktop-header.hidden.md\:flex.align-self-end.py-7.px-9,
+.settings-row-box.box.pb-7.md\:pb-9,
+[data-author="user"] {
     background-color: #000000;
 }
