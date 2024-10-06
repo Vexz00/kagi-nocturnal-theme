@@ -373,6 +373,7 @@ html,
 ._0_results_summary_box.__0_show,
 .widget_weather {
     background-color: #0d0e11;
+    border-bottom-color: #0d0e11;
     border-radius: 12px;
     padding-top: 1rem;
     padding-right: 1rem;
